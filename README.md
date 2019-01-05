@@ -1,4 +1,4 @@
-# compression_pca
+# Compression Using PCA
 
 ### PREFERRED ENVIRONMENT --> JUPYTER NOTEBOOK
 
